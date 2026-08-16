@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"storeId":{"$numberInt":"1"},"billingCycle":{"$numberInt":"1"}},"name":"storeId_1_billingCycle_1","background":true}],"uuid":"72a1f943be0c41369616a3292b0fe94e","collectionName":"subscriptionplans","type":"collection"}
